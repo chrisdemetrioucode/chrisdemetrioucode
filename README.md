@@ -66,14 +66,36 @@
 
 
 <h2>🥇 Certifications:</h2>
-
-- <b>PRINCE2</b>
-  - [PRINCE2 Foundation](https://www.axelos.com/certifications/propath/prince2-project-management/prince2-7-foundation)
-- <b>Cisco</b>
-  - [CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)
-- <b>Comptia</b>
-  - [Security+](https://www.comptia.org/certifications/security)
-  - [A+](https://www.comptia.org/certifications/a)
+<ul>
+    <li><strong>CAPSLOCK</strong>
+        <ul>
+            <li><a target="_blank" rel="noopener noreferrer" href="https://capslock.ac">Ce-CSP - Certified Cyber Security Practitioner</a><a>*</a></li>
+        </ul>
+    </li>
+    <li><strong>British Computer Society's Certificate in Information Security Management Principles</strong>
+        <ul>
+            <li><a target="_blank" rel="noopener noreferrer" href="https://www.bcs.org/qualifications-and-certifications/certifications-for-professionals/information-security-and-data-protection-certifications/bcs-foundation-certificate-in-information-security-management-principles/">BCS CISMP</a><a>*</a></li>
+        </ul>
+    </li>
+    <li><strong>Cloud Security Alliance's Certificate of Cloud Security Knowledge</strong>
+        <ul>
+            <li><a target="_blank" rel="noopener noreferrer" href="https://cloudsecurityalliance.org/education/ccsk">CSA CCSK</a><a>*</a></li>
+        </ul>
+    </li>
+    <li><strong>ISO 27001 Foundation Certificate</strong><a>*</a></li>
+    <li><strong>Cisco</strong>
+        <ul>
+            <li><a target="_blank" rel="noopener noreferrer" href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html">CCNA</a></li>
+        </ul>
+    </li>
+    <li><a><strong>Comptia</strong></a>
+        <ul>
+            <li><a target="_blank" rel="noopener noreferrer" href="https://www.comptia.org/certifications/security">Security+</a></li>
+            <li><a target="_blank" rel="noopener noreferrer" href="https://www.comptia.org/certifications/a">A+</a></li>
+        </ul>
+    </li>
+</ul>
+<p>*currently studying</p>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Chris D | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.10.0/icons/linkedin.svg" />][linkedin]
