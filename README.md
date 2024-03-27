@@ -8,7 +8,7 @@
   <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Malware</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [My First Malware Honeypot](https://github.com/infosecchrisd/My-First-Malware-Honeypot)
 
 <h2> 🤳 Connect with me:</h2>
 
