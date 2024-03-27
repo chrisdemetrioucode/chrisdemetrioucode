@@ -6,6 +6,15 @@
 - <b>Malware</b>
   - [My First Malware Honeypot](https://github.com/infosecchrisd/My-First-Malware-Honeypot)
 
+<h2>🥇 Certifications:</h2>
+
+- <b>PRINCE2</b>
+  - [PRINCE2 Foundation](https://www.axelos.com/certifications/propath/prince2-project-management/prince2-7-foundation)
+- <b>Cisco</b>
+  - [CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)
+- <b>Comptia</b>
+  - [Security+](https://www.comptia.org/certifications/security)
+  - [A+](https://www.comptia.org/certifications/a)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Chris D | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.10.0/icons/linkedin.svg" />][linkedin]
