@@ -5,11 +5,6 @@
 - <b>Malware</b>
   - [My First Malware Honeypot](https://github.com/infosecchrisd/My-First-Malware-Honeypot)
 
-  <h2>👨‍💻 Cyber Security Projects:</h2>
-
-- <b>Malware</b>
-  - [My First Malware Honeypot](https://github.com/infosecchrisd/My-First-Malware-Honeypot)
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Chris D | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.10.0/icons/linkedin.svg" />][linkedin]
