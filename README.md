@@ -8,7 +8,6 @@
 
 <h2>🥇 Work Experience:</h2>
 <p>2008-2024 <a target="_blank" rel="noopener noreferrer" href="https://e2open.com">e2open Ltd</a> (ex-BluJay Solutions Ltd, ex-Kewill Ltd)</p>
-<br>
 <p>2023-2024 <strong>Project Manager, Infrastructure</strong></p>
 <ul style="list-style-type:disc;">
     <li>Cloud Operations/Provisioning, Private and Public Cloud. Amazon AWS &amp; Oracle OCI</li>
@@ -18,7 +17,7 @@
     <li>Data Centre Migrations/Consolidations/Closures</li>
     <li>Infrastructure/Technical Debt Mitigations/Upgrades/Decommissions</li>
 </ul>
-<p>2008-2023 <strong>Staff Application Specialist</strong></span></p>
+<p>2008-2023 <strong>Staff Application Specialist</strong></p>
 <ul>
     <li>Technical liaison<ul>
             <li>Conduit between cloud technical teams and management. Ability to translate highly technical info for non-technical management to understand</li>
@@ -60,6 +59,23 @@
     </li>
     <li>Cloud Technologies<ul>
             <li>Technical awareness of AWS EC2 and Oracle OCI</li>
+        </ul>
+    </li>
+</ul>
+<p>2007-2008 <a target="_blank" rel="noopener noreferrer" href="https://www.ukngroup.com/">UKN Group Ltd</a> - IT MSP<br><strong>Service Desk Analyst / On-site Engineer</strong></p>
+<ul>
+    <li>1st, 2nd, 3rd line IT Support for Central London clients:&nbsp;<ul>
+            <li>SC Government Clients</li>
+            <li>NHS</li>
+            <li>Lloyds Insurance (to name a few)</li>
+        </ul>
+    </li>
+</ul>
+<p>2006-2007 iRevolution Ltd - IT MSP<br><strong>Technical Solutions Consultant</strong></p>
+<ul>
+    <li>Primarily worked on site in central London as 2nd/3rd line support for public and private sector clients such as:<ul>
+            <li>Price Forbes &amp; Partners Ltd</li>
+            <li>Andrew Lloyd Webber's Really Useful Group (to name a few)</li>
         </ul>
     </li>
 </ul>
