@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/joshmadakor/">Cyber Security Practitoner</a>, <a href="https://raintownseers.bandcamp.com/album/love-loss-home">Musician</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
+
 - <b>Malware</b>
   - [My First Malware Honeypot](https://github.com/infosecchrisd/My-First-Malware-Honeypot)
 
