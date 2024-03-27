@@ -5,7 +5,7 @@
 - <b>Malware</b>
   - [My First Malware Honeypot](https://github.com/infosecchrisd/My-First-Malware-Honeypot)
 
-  <h2>👨‍💻 Software Development Projects:</h2>
+  <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Malware</b>
   - [My First Malware Honeypot](https://github.com/infosecchrisd/My-First-Malware-Honeypot)
