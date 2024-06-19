@@ -4,7 +4,7 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>WordPress</b>
-<p>[Charity] - REACH (Reaching East African Children)<a target="_blank" rel="noopener noreferrer" href="https://reach-children-uganda.org.uk/">REACH</a> - helping children in East African with their education)</p>
+<p>[Charity] REACH - Reaching East African Children <a target="_blank" rel="noopener noreferrer" href="https://reach-children-uganda.org.uk/">REACH</a></p>
 
 
 <h2>🥇 Work Experience:</h2>
