@@ -7,6 +7,9 @@
 <p>[Charity] <a target="_blank" rel="noopener noreferrer" href="https://reach-children-uganda.org.uk/">REACH</a> - Reaching East African Children </p>
 <p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://christopherdemetriou.com/">Christopher Demetriou</a> - Professional Musician, Composer & Producer</p>
 
+- <b>Scratch</b>
+<p>[Shooter Game] <a target="_blank" rel="noopener noreferrer" href="https://scratch.mit.edu/projects/1038121549/">Election Busters</a></p>
+
 <h2>👨‍💻 Design Projects:</h2>
 
 - <b>Photoshop</b>
