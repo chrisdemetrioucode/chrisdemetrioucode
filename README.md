@@ -1,10 +1,11 @@
 <h1>Hi, I'm Chris D! <br/>
-<a href="https://www.linkedin.com/in/joshmadakor/">Cyber Security Practitoner</a>, <a href="https://raintownseers.bandcamp.com/album/love-loss-home">Musician</a></h1>
+<a href="https://www.linkedin.com/in/chrisademetriou/">Aspiring Software Engineer</a>, <a href="https://raintownseers.bandcamp.com/album/love-loss-home">Musician</a></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Coding Projects:</h2>
 
-- <b>Malware</b>
-  - [My First Malware Honeypot](https://github.com/infosecchrisd/My-First-Malware-Honeypot)
+- <b>WordPress</b>
+
+Charity - insert site
 
 <h2>🥇 Work Experience:</h2>
 <p>2008-2024 <a target="_blank" rel="noopener noreferrer" href="https://e2open.com">e2open Ltd</a> (ex-BluJay Solutions Ltd, ex-Kewill Ltd)</p>
