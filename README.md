@@ -15,8 +15,9 @@
 
 <h2>👨‍💻 Music Projects:</h2>
 
-- <b>[Album] Raintown Seers - Love Loss Home (2023)</b>
-<p>[Credits] <a target="_blank" rel="noopener noreferrer" href="https://raintownseers.bandcamp.com/album/love-loss-home/">REACH Concert Poster</a></p>
+- <b>[Album] <a target="_blank" rel="noopener noreferrer" href="https://raintownseers.bandcamp.com/album/love-loss-home/">Raintown Seers - Love Loss Home (2023)</a></b>
+<p>[Credits] Recording, Editing, Producing, Mixing & Mastering</a></p>
+
 
 <h2>🥇 Work Experience:</h2>
 <p>2008-2024 <a target="_blank" rel="noopener noreferrer" href="https://e2open.com">e2open Ltd</a> (ex-BluJay Solutions Ltd, ex-Kewill Ltd)</p>
