@@ -123,6 +123,11 @@
         <ul>
             <li><a target="_blank" rel="noopener noreferrer" href="">** Work In Progress... **</a></li>
         </ul>
+    <li><strong>PRINCE2</strong>
+        <ul>
+            <li><a target="_blank" rel="noopener noreferrer" href="https://www.datrixtraining.com/course/project-and-programme-management/prince2-training/prince2-foundation">PRINCE2 Foundation</a></li>
+        </ul>
+    </li>
     <li><strong>Cisco</strong>
         <ul>
             <li><a target="_blank" rel="noopener noreferrer" href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html">CCNA</a></li>
