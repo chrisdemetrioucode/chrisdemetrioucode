@@ -36,7 +36,7 @@
 
 <h2>👨‍💻 Music Projects:</h2>
 
-- <b>[Producer Showreep - Album] <a target="_blank" rel="noopener noreferrer" href="https://raintownseers.bandcamp.com/album/love-loss-home/">Raintown Seers - Love Loss Home (2023)</a></b>
+- <b>[Producer Showreel - Album] <a target="_blank" rel="noopener noreferrer" href="https://raintownseers.bandcamp.com/album/love-loss-home/">Raintown Seers - Love Loss Home (2023)</a></b>
 <p>[Credits] Recording, Editing, Producing, Mixing & Mastering</a></p>
 - <b>[Session Musician Credits] <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/playlist/6twYNV9KgDPazRfFAWid6x?si=712c367748eb4946">Chris Demetriou's Showreel</a></b>
 <p>[Credits] Shrek 2, King Arthur, SEAL, Lisa Stansfield, SugaBabes, Jessicas Ghost, Raintown Seers, Kanye West and more..</a></p>
