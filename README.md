@@ -27,12 +27,12 @@
 <h2>👨‍💻 Social Media Content Creation Projects:</h2>
 
 - <b>Chris Demetriou Music</b>
-<p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://facebook.com/chrisdemetrioumusic">Chris Demetriou Music</a></p>
-<p>[Music]  <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/chrisdemetrioumusic">Chris Demetriou Music</a></p>
+<p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://facebook.com/chrisdemetrioumusic">Chris Demetriou Music</a> on Facebook</p>
+<p>[Music]  <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/chrisdemetrioumusic">Chris Demetriou Music</a> on Instagram</p>
 
 - <b>Raintown Seers Music</b>
-<p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://facebook.com/raintownseersuk">Raintown Seers Music</a></p>
-<p>[Music]  <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/raintownseers">Raintown Seers Music</a></p>
+<p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://facebook.com/raintownseersuk">Raintown Seers Music</a> on Facebook</p>
+<p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/raintownseers">Raintown Seers Music</a> on Instagram</p>
 
 <h2>👨‍💻 Music Projects:</h2>
 
