@@ -7,6 +7,17 @@
 <p>[Charity] <a target="_blank" rel="noopener noreferrer" href="https://reach-children-uganda.org.uk/">REACH</a> - Reaching East African Children </p>
 <p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://christopherdemetriou.com/">Christopher Demetriou</a> - Professional Musician, Composer & Producer</p>
 
+<h2>👨‍💻 Design Projects:</h2>
+
+- <b>Photoshop</b>
+<p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://reach-children-uganda.org.uk/wp-content/uploads/2024/02/reachconcert20240322v3-lo.png">REACH Concert Poster</a></p>
+<p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/p/CiaItxaM0V3/?igsh=MWsyN3d6aTRjdzZueg==">Leek Americana & Blues Festival Poster</a></p>
+
+<h2>👨‍💻 Music Projects:</h2>
+
+- <b>[Album] Raintown Seers - Love Loss Home (2023)</b>
+<p>[Credits] <a target="_blank" rel="noopener noreferrer" href="https://raintownseers.bandcamp.com/album/love-loss-home/">REACH Concert Poster</a></p>
+
 <h2>🥇 Work Experience:</h2>
 <p>2008-2024 <a target="_blank" rel="noopener noreferrer" href="https://e2open.com">e2open Ltd</a> (ex-BluJay Solutions Ltd, ex-Kewill Ltd)</p>
 <p>2023-2024 <strong>Project Manager, Infrastructure</strong></p>
