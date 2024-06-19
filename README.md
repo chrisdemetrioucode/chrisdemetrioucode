@@ -96,22 +96,10 @@
 
 <h2>🥇 Certifications:</h2>
 <ul>
-    <li><strong>CAPSLOCK</strong>
+    <li><strong>School Of Code</strong>
         <ul>
-            <li><a target="_blank" rel="noopener noreferrer" href="https://capslock.ac">Ce-CSP - Certified Cyber Security Practitioner</a><a>*</a></li>
+            <li><a target="_blank" rel="noopener noreferrer" href="">Work In Progress...</a><a>*</a></li>
         </ul>
-    </li>
-    <li><strong>British Computer Society's Certificate in Information Security Management Principles</strong>
-        <ul>
-            <li><a target="_blank" rel="noopener noreferrer" href="https://www.bcs.org/qualifications-and-certifications/certifications-for-professionals/information-security-and-data-protection-certifications/bcs-foundation-certificate-in-information-security-management-principles/">BCS CISMP</a><a>*</a></li>
-        </ul>
-    </li>
-    <li><strong>Cloud Security Alliance's Certificate of Cloud Security Knowledge</strong>
-        <ul>
-            <li><a target="_blank" rel="noopener noreferrer" href="https://cloudsecurityalliance.org/education/ccsk">CSA CCSK</a><a>*</a></li>
-        </ul>
-    </li>
-    <li><strong>ISO 27001 Foundation Certificate</strong><a>*</a></li>
     <li><strong>Cisco</strong>
         <ul>
             <li><a target="_blank" rel="noopener noreferrer" href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html">CCNA</a></li>
