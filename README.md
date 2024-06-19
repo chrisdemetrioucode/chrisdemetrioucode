@@ -10,11 +10,19 @@
 - <b>Scratch</b>
 <p>[Shooter Game] <a target="_blank" rel="noopener noreferrer" href="https://scratch.mit.edu/projects/1038121549/">Election Busters</a></p>
 
+- <b>freeCodeCamp</b>
+<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">insertName</a></p>
+<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">insertName</a></p>
+<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">insertName</a></p>
+<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">insertName</a></p>
+<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">insertName</a></p>
+<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">insertName</a></p>
+
 <h2>👨‍💻 Design Projects:</h2>
 
 - <b>Photoshop</b>
 <p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://reach-children-uganda.org.uk/wp-content/uploads/2024/02/reachconcert20240322v3-lo.png">REACH Concert Poster</a></p>
-<p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/p/CiaItxaM0V3/?igsh=MWsyN3d6aTRjdzZueg==">Leek Americana & Blues Festival Poster</a></p>
+<p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/photo/?fbid=1149023089350744&set=pcb.1149022459350807">Leek Americana & Blues Festival Poster</a></p>
 
 <h2>👨‍💻 Music Projects:</h2>
 
