@@ -4,8 +4,8 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>WordPress</b>
-<p>[Charity] REACH - Reaching East African Children <a target="_blank" rel="noopener noreferrer" href="https://reach-children-uganda.org.uk/">REACH</a></p>
-
+<p>[Charity] <a target="_blank" rel="noopener noreferrer" href="https://reach-children-uganda.org.uk/">REACH</a> - Reaching East African Children </p>
+<p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://christopherdemetriou.com/">Christopher Demetriou</a> - Professional Musician, Composer & Producer</p>
 
 <h2>🥇 Work Experience:</h2>
 <p>2008-2024 <a target="_blank" rel="noopener noreferrer" href="https://e2open.com">e2open Ltd</a> (ex-BluJay Solutions Ltd, ex-Kewill Ltd)</p>
