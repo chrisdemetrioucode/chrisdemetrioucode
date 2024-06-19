@@ -4,8 +4,8 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>WordPress</b>
+<p>[Charity] - REACH (Reaching East African Children)<a target="_blank" rel="noopener noreferrer" href="https://reach-children-uganda.org.uk/">REACH</a> - helping children in East African with their education)</p>
 
-Charity - insert site
 
 <h2>🥇 Work Experience:</h2>
 <p>2008-2024 <a target="_blank" rel="noopener noreferrer" href="https://e2open.com">e2open Ltd</a> (ex-BluJay Solutions Ltd, ex-Kewill Ltd)</p>
