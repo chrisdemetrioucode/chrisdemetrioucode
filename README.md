@@ -18,11 +18,21 @@
 <p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">insertName</a></p>
 <p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">insertName</a></p>
 
-<h2>👨‍💻 Design Projects:</h2>
+<h2>👨🏻‍🎨 Design Projects:</h2>
 
 - <b>Photoshop</b>
 <p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://reach-children-uganda.org.uk/wp-content/uploads/2024/02/reachconcert20240322v3-lo.png">REACH Concert Poster</a></p>
 <p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/photo/?fbid=1149023089350744&set=pcb.1149022459350807">Leek Americana & Blues Festival Poster</a></p>
+
+<h2>👨‍💻 Social Media Content Creation Projects:</h2>
+
+- <b>Chris Demetriou Music</b>
+<p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://facebook.com/chrisdemetrioumusic">Chris Demetriou Music</a></p>
+<p>[Music]  <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/chrisdemetrioumusic">Chris Demetriou Music</a></p>
+
+- <b>Raintown Seers Music</b>
+<p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://facebook.com/raintownseersuk">Raintown Seers Music</a></p>
+<p>[Music]  <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/raintownseers">Raintown Seers Music</a></p>
 
 <h2>👨‍💻 Music Projects:</h2>
 
@@ -109,7 +119,7 @@
 <ul>
     <li><strong>School Of Code</strong>
         <ul>
-            <li><a target="_blank" rel="noopener noreferrer" href="">Work In Progress...</a><a>*</a></li>
+            <li><a target="_blank" rel="noopener noreferrer" href="">** Work In Progress... **</a></li>
         </ul>
     <li><strong>Cisco</strong>
         <ul>
