@@ -118,7 +118,6 @@
         <ul>
             <li><a target="_blank" rel="noopener noreferrer" href="">** Work In Progress... **</a></li>
         </ul>
-        <ul>
     <li><strong>freeCodeCamp</strong>
         <ul>
             <li><a target="_blank" rel="noopener noreferrer" href="">Responsive Web Design ** Work In Progress... **</a></li>
