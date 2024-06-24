@@ -11,12 +11,7 @@
 <p>[Shooter Game] <a target="_blank" rel="noopener noreferrer" href="https://scratch.mit.edu/projects/1038121549/">Election Busters</a></p>
 
 - <b>freeCodeCamp</b>
-<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">insertName</a></p>
-<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">insertName</a></p>
-<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">insertName</a></p>
-<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">insertName</a></p>
-<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">insertName</a></p>
-<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">insertName</a></p>
+<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="">Survey Form</a></p>
 
 <h2>👨🏻‍🎨 Design Projects:</h2>
 
