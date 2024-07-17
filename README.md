@@ -14,6 +14,7 @@
 <p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/pen/jOogExY">Survey Form</a></p>
 
 <h2>👨🏻‍🎨 Design Projects:</h2>
+
 - <b>Photoshop</b>
 
 <p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://reach-children-uganda.org.uk/wp-content/uploads/2024/02/reachconcert20240322v3-lo.png">REACH Concert Poster</a></p>
