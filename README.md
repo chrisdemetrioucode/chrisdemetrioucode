@@ -144,11 +144,9 @@
 
 [<img align="left" alt="Chris D | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.10.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Chris D | Linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.10.0/icons/linktree.svg" />][linktree]
-[<img align="left" alt="Chris D | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.10.0/icons/twitter.svg" />][twitter]
 
-[linkedin]: https://linkedin.com/in/infosecchrisd
-[linktree]: https://linktr.ee/infosecchrisd
-[twitter]: https://twitter.com/infosecchrisd
+[linkedin]: https://linkedin.com/in/chrisademetriou
+[linktree]: https://linktr.ee/chrisdemetriou
 <br>
 <h2> 🎵 Connect with my music:</h2>
 
