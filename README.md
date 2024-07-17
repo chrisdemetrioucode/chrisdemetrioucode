@@ -144,9 +144,11 @@
 
 [<img align="left" alt="Chris D | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.10.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Chris D | Linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.10.0/icons/linktree.svg" />][linktree]
+[<img align="left" alt="Chris D | Linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.10.0/icons/youtube.svg" />][youtube]
 
 [linkedin]: https://linkedin.com/in/chrisademetriou
 [linktree]: https://linktr.ee/chrisdemetriou
+[youtube]: https://youtube.com/@chrisdemetrioumusic2024/videos
 <br>
 <h2> 🎵 Connect with my music:</h2>
 
