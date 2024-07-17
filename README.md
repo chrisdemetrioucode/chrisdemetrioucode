@@ -3,18 +3,17 @@
 
 <h2>👨‍💻 Coding Projects:</h2>
 
+- <b>Scratch</b>
+<p>[Shooter Game] <a target="_blank" rel="noopener noreferrer" href="https://scratch.mit.edu/projects/1038121549/">Election Busters</a></p>
+
 - <b>WordPress</b>
 <p>[Charity] <a target="_blank" rel="noopener noreferrer" href="https://reach-children-uganda.org.uk/">REACH</a> - Reaching East African Children </p>
 <p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://christopherdemetriou.com/">Christopher Demetriou</a> - Professional Musician, Composer & Producer</p>
 
-- <b>Scratch</b>
-<p>[Shooter Game] <a target="_blank" rel="noopener noreferrer" href="https://scratch.mit.edu/projects/1038121549/">Election Busters</a></p>
-
 - <b>freeCodeCamp Certification Projects</b>
 <p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/pen/jOogExY">Survey Form</a></p>
-<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="#">Tribute Page</a></p>
-<h2>👨🏻‍🎨 Design Projects:</h2>
 
+<h2>👨🏻‍🎨 Design Projects:</h2>
 - <b>Photoshop</b>
 <p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://reach-children-uganda.org.uk/wp-content/uploads/2024/02/reachconcert20240322v3-lo.png">REACH Concert Poster</a></p>
 <p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/photo/?fbid=1149023089350744&set=pcb.1149022459350807">Leek Americana & Blues Festival Poster</a></p>
