@@ -15,6 +15,7 @@
 
 <h2>👨🏻‍🎨 Design Projects:</h2>
 - <b>Photoshop</b>
+
 <p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://reach-children-uganda.org.uk/wp-content/uploads/2024/02/reachconcert20240322v3-lo.png">REACH Concert Poster</a></p>
 <p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/photo/?fbid=1149023089350744&set=pcb.1149022459350807">Leek Americana & Blues Festival Poster</a></p>
 
