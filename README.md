@@ -13,6 +13,7 @@
 - <b>freeCodeCamp Certification Projects</b>
 <p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/pen/jOogExY">Survey Form - DCode Music Festival Customer Survey</a></p>
 <p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/pen/bGPBpJx">Tribute Page - Jacob Collier</a></p>
+<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/pen/LYKLVWB">Technical Documentation Page - Python Docuemntation</a></p>
 
 <h2>👨🏻‍🎨 Design Projects:</h2>
 
