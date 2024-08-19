@@ -1,6 +1,6 @@
-<h1>Hi, I'm Chris D! <br/>
-<h2>20 years working in SaaS firms</h2> <br/>
-<p>Pivoting to <a href="https://www.linkedin.com/in/chrisademetriou/">Software Engineering</a>, <a href="https://raintownseers.bandcamp.com/album/love-loss-home">Musician</a></h1>
+<h1>Hi, I'm Chris D!</h1>
+<h2>20 years working in SaaS firms</h2>
+<p>Pivoting to <a href="https://www.linkedin.com/in/chrisademetriou/">Software Engineering</a>,</p> <a href="https://raintownseers.bandcamp.com/album/love-loss-home">Musician</a></h1>
 
 <h2>👨‍💻 Coding Projects:</h2>
 
