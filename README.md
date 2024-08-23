@@ -14,7 +14,7 @@
 - <b>freeCodeCamp Certification Projects</b>
 <p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/full/jOogExY">Survey Form - DCode Music Festival Customer Survey</a></p>
 <p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/full/bGPBpJx">Tribute Page - Jacob Collier</a></p>
-<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/full/LYKLVWB">Technical Documentation Page - Python Docuemntation</a></p>
+<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/full/LYKLVWB">Technical Documentation Page - Python Documentation</a></p>
 <p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/full/JjQygpG">Product Landing Page - Bespoke Violins</a></p>
 <p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/full/oNrEMqp">Portfolio Page - Chris Demetriou</a></p>
 
