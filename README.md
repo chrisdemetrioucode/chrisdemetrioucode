@@ -12,11 +12,11 @@
 <p>[Music] <a target="_blank" rel="noopener noreferrer" href="https://christopherdemetriou.com/">Christopher Demetriou</a> - Professional Musician, Composer & Producer</p>
 
 - <b>freeCodeCamp Certification Projects</b>
-<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/pen/jOogExY">Survey Form - DCode Music Festival Customer Survey</a></p>
-<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/pen/bGPBpJx">Tribute Page - Jacob Collier</a></p>
-<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/pen/LYKLVWB">Technical Documentation Page - Python Docuemntation</a></p>
-<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/pen/JjQygpG">Product Landing Page - Bespoke Violins</a></p>
-<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/pen/oNrEMqp">Portfolio Page - Chris Demetriou</a></p>
+<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/full/jOogExY">Survey Form - DCode Music Festival Customer Survey</a></p>
+<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/full/bGPBpJx">Tribute Page - Jacob Collier</a></p>
+<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/full/LYKLVWB">Technical Documentation Page - Python Docuemntation</a></p>
+<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/full/JjQygpG">Product Landing Page - Bespoke Violins</a></p>
+<p>[Responsive Web Design] <a target="_blank" rel="noopener noreferrer" href="https://codepen.io/chrisdemetrioucode/full/oNrEMqp">Portfolio Page - Chris Demetriou</a></p>
 
 <h2>👨🏻‍🎨 Design Projects:</h2>
 
