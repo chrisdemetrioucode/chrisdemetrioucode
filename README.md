@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chris D!</h1>
 <h2>After working in SaaS firms for 20 years (1st/2nd/3rd Line Support =》Application Specialist  =》 Technical PM).</h2>
-<h2>In my spare time I'm a <a href="https://raintownseers.bandcamp.com/album/love-loss-home">Professional Musician, Composer & Producer</a>.</h2>
+<h2>In my spare time I'm a <a href="https://raintownseers.bandcamp.com/">Professional Musician, Composer & Producer</a>.</h2>
 
 <h2>👨‍💻 Coding Projects:</h2>
 
@@ -163,7 +163,7 @@
 [<img align="left" alt="Raintown Seers | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.10.0/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Raintown Seers | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.10.0/icons/facebook.svg" />][facebook]
 
-[bandcamp]: https://raintownseers.bandcamp.com/album/love-loss-home
+[bandcamp]: https://raintownseers.bandcamp.com/
 [youtube]: https://www.youtube.com/@raintownseers/videos
 [instagram]: https://www.instagram.com/raintownseers
 [facebook]: https://facebook.com/raintownseersuk
