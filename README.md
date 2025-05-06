@@ -2,6 +2,9 @@
 <h2>An aspiring Cloud Engineer after working in SaaS firms for 20 years (1st/2nd/3rd Line Support =》Application Specialist  =》 Technical PM).</h2>
 <h2>In my spare time I'm a <a href="https://raintownseers.bandcamp.com/">Professional Musician, Composer & Producer</a>.</h2>
 
+<h2>👨‍💻 AWS Cloud Projects:</h2>
+<p>[Work In Progress] <a target="_blank" rel="noopener noreferrer" href=""></a></p>
+
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>Scratch</b>
@@ -120,7 +123,7 @@
 
 <h2>🥇 Certifications:</h2>
 <ul>
-    <li><strong>School Of Code</strong>
+    <li><strong>AWS Certified Cloud Practitioner (CLF-C02)</strong>
         <ul>
             <li><a target="_blank" rel="noopener noreferrer" href="">** Work In Progress... **</a></li>
         </ul>
