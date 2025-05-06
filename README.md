@@ -129,7 +129,7 @@
         </ul>
     <li><strong>freeCodeCamp</strong>
         <ul>
-            <li><a target="_blank" rel="noopener noreferrer" href="">Responsive Web Design ** Work In Progress... **</a></li>
+            <li><a target="_blank" rel="noopener noreferrer" href="https://www.freecodecamp.org/certification/chrisdemetrioucode/responsive-web-design">Responsive Web Design</a></li>
         </ul>
     <li><strong>PRINCE2</strong>
         <ul>
