@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris D!</h1>
+<h1>Hi, I'm Chris Demetriou!</h1>
 <h2>An aspiring Cloud Engineer with 20 years IT experience working with global SaaS managed services firms. Staff Application Specialist ➡ Technical PM.</h2>
 <h2>In my spare time I'm a <a href="https://raintownseers.bandcamp.com/">Professional Musician, Composer & Producer</a>.</h2>
 
