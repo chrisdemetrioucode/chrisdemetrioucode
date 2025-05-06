@@ -1,5 +1,5 @@
 <h1>Hi, I'm Chris D!</h1>
-<h2>An aspiring Cloud Engineer after working in SaaS firms for 20 years (1st/2nd/3rd Line Support ➡ Application Specialist ➡ Technical PM).</h2>
+<h2>An aspiring Cloud Engineer after working in SaaS firms for 20 years. Staff Application Specialist ➡ Technical PM).</h2>
 <h2>In my spare time I'm a <a href="https://raintownseers.bandcamp.com/">Professional Musician, Composer & Producer</a>.</h2>
 
 <h2>👨‍💻 AWS Cloud Projects:</h2>
